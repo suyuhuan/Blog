@@ -1,8 +1,4 @@
-# 冴羽的博客
-
-## 求简历
-
-当前社招中，欢迎来投淘宝技术部，有兴趣联系我, 微信同 Github ID
+# 苏玉环的博客
 
 ## 进度
 
@@ -98,10 +94,6 @@ ES6 系列正在发布中……
 19. [ES6 系列之私有变量的实现](https://github.com/mqyqingfeng/Blog/issues/110)
 20. [ES6 完全使用手册](https://github.com/mqyqingfeng/Blog/issues/111)
 
-## 友情链接
-
-1. [如何轻松拿到淘宝前端 offer](https://juejin.im/post/5bbc54a2e51d450e5a7445b4)
-
 ## 注意
 
 深入系列文章部分是有先后顺序的，按照目录结构顺序阅读效果最好。
@@ -112,6 +104,4 @@ ES6 系列正在发布中……
 
 如果喜欢或者有所启发，欢迎 star，对作者也是一种鼓励。
 
-## License
 
-所有文章采用[知识共享署名-非商业性使用-相同方式共享 3.0 中国大陆许可协议](http://creativecommons.org/licenses/by-nc-sa/3.0/cn/)进行许可。
